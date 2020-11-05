@@ -14,7 +14,7 @@
     grid-template-areas: 
         " nav nav nav nav "
         " sidebar main main main "
-        " sidebar content1 content2 content2"
+        " sidebar content1 content1 content1"
         " sidebar footer footer footer"
     }
 
@@ -131,15 +131,15 @@ a:hover, a:active {
 }
 
 #titlucontent1{
-    background-color:red;
+    /*background-color:red;
     border-radius: 15px;
     text-decoration: none;
     font-size: 150%;
-    border: 1px solid red;
+    border: 1px solid red;*/
     color:white;
-    text-align: center;
+   /* text-align: center;
     border:0px solid #12232E;
-    box-shadow: 5px 10px 18px red;
+    box-shadow: 5px 10px 18px red;*/
 }
 
 
